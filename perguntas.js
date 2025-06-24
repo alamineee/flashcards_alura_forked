@@ -21,3 +21,51 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
+
+criaCartao(
+    '0',
+    '0',
+    '0'
+)
+
+criaCartao(
+    '0',
+    '0',
+    '0'
+)
+
+criaCartao(
+    '0',
+    '0',
+    '0'
+)
+
+criaCartao(
+    '0',
+    '0',
+    '0'
+)
+
+criaCartao(
+    '0',
+    '0',
+    '0'
+)
+
+criaCartao(
+    '0',
+    '0',
+    '0'
+)
+
+criaCartao(
+    '0',
+    '0',
+    '0'
+)
+
+criaCartao(
+    '0',
+    '0',
+    '0'
+)
