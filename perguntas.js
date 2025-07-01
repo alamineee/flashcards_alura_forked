@@ -23,49 +23,49 @@ criaCartao(
 )
 
 criaCartao(
-    '0',
-    '0',
-    '0'
+    'Programação',
+    'O que é console.log() em JavaScript?',
+    ' Função que imprime mensagens no console.'
 )
 
 criaCartao(
-    '0',
-    '0',
-    '0'
+    'Programação',
+    'Como declarar uma constante em Python?',
+    'Use CONSTANTE = valor (por convenção, mas Python não tem constantes reais).'
 )
 
 criaCartao(
-    '0',
-    '0',
-    '0'
+    'Programação',
+    'Qual comando encerra um loop while antes da condição?',
+    'break.'
 )
 
 criaCartao(
-    '0',
-    '0',
-    '0'
+    'Geografia',
+    'Qual é o maior oceano do mundo?',
+    'Oceano Pacífico.'
 )
 
 criaCartao(
-    '0',
-    '0',
-    '0'
+    'Geografia',
+    'Que país tem o formato de uma bota?',
+    ' Itália.'
 )
 
 criaCartao(
-    '0',
-    '0',
-    '0'
+    'Geografia',
+    ' Qual é a capital do Canadá?',
+    'Ottawa.'
 )
 
 criaCartao(
-    '0',
-    '0',
-    '0'
+    'Português',
+    'Quantas sílabas tem a palavra "cachorro"?',
+    '3 (ca-cho-rro).'
 )
 
 criaCartao(
-    '0',
-    '0',
-    '0'
+    'Português',
+    ' Qual é o plural de "pão"?',
+    'Paẽs'
 )
